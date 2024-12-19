@@ -1,5 +1,3 @@
-# binder.py
-
 from xmlrpc.server import SimpleXMLRPCServer
 
 class Binder:

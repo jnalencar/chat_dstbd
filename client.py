@@ -1,5 +1,3 @@
-# client.py
-
 import xmlrpc.client
 import threading
 import time

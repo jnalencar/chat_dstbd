@@ -1,5 +1,3 @@
-# server.py
-
 from xmlrpc.server import SimpleXMLRPCServer
 import xmlrpc.client
 import threading
